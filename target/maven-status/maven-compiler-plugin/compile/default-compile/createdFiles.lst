@@ -1,0 +1,5 @@
+numbers/RomanToArabicDataFetcher.class
+numbers/RomanToArabicConverter.class
+numbers/ArabicToRomanConverter.class
+numbers/ArabicToRomanDataFetcher.class
+numbers/GraphQLHandler.class

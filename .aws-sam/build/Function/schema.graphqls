@@ -1,0 +1,8 @@
+type Query {
+    arabicToRoman(arabic: Int!): String
+    romanToArabic(roman: String!): Int
+}
+
+schema {
+    query: Query
+}
